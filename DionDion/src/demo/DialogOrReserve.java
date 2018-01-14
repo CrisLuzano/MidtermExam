@@ -1,6 +1,6 @@
 package demo;
 import javax.swing.*;
-
+//try
 public class DialogOrReserve {
 	JTextField firstname = new JTextField();
 	JTextField lastname = new JTextField();
